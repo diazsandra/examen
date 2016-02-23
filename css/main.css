@@ -1,0 +1,284 @@
+
+.bgwhite {
+	background-color: white;
+}
+
+.bggray {
+	background-color: gray;
+}
+
+* {
+	color: gray;
+}
+
+
+/*HEADER*/
+
+.txtwhite {
+	color: white;
+}
+
+header {
+	background-color: #1C2833;
+	padding: 2% 0;
+}
+
+.fs32 {
+	font-size: 36px;
+}
+
+.icono {
+	font-weight: 900;
+	font-style: bolder;
+}
+
+.pink {
+	color: #EC407A;
+}
+
+nav {
+	padding: 5px;
+
+}
+
+ul{
+	text-align: center;
+	float: right;
+}
+
+li{
+	list-style-type: none;
+	float: left;
+	color: white;
+	padding: 5px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+/*HEAD*/
+
+.head {
+	padding: 50px; 
+	border-bottom: 5px solid gray; 
+	background-color: white;
+}
+
+head h1 {
+	padding: 5% 0px;
+	margin-top: 20px;
+}
+
+head p {
+	padding: 5% 0px; 
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+head img {
+	width: 100%;
+	height: 300px;
+}
+
+/* Checar por qué no funcionan margin y padding*/
+
+.boton {
+	padding: 8px;
+	height: 30px;
+	width: 100px;
+	background-color: gray;
+	color: white;
+	border-radius: 30px;
+	text-align: center;
+}
+
+/* PROJECTS*/
+
+
+.grid {
+	padding: 5%;
+	display: inline-block;
+	/* Ponerlo en gris!! */
+	grayscale: 100%;
+}
+
+.pd5 {
+	padding: 5%;
+}
+
+.projects ul {
+	float: left;
+}
+
+.projects .col-10 {
+	margin-top: 30px;
+}
+
+.txtgray {
+	color: gray;
+}
+
+/* IMG PROJECTS */
+
+.imgprojects .col-6 {
+	margin-top: 50px;
+}
+
+.imgproj {
+	position: center;
+	padding: 0px 35px;
+}
+
+.mgt15 {
+	margin-top: 15px;
+}
+
+.imgprojects img {
+	width: 100%
+}
+
+.load {
+	padding: 100px 45%;
+	position: center;
+	border-bottom: solid 2px gray;
+} 
+
+/* FOLLOW */
+
+.follow {
+	padding: 5%;
+
+}
+
+.larry {
+	
+	margin: 25px;
+}
+
+.follower {
+	padding: 0 10%;
+}
+
+.botonf {
+	padding: 5px;
+	height: 20px;
+	width: 60px;
+	background-color: gray;
+	color: white;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 12px;
+	position: center;
+	text-align: center;
+}
+
+/* FOOTER */
+
+.foot {
+	background-color: #1C2833;
+	padding: 3%;
+}
+
+.icon {
+	display: inline-block;
+	border-radius: 50%;
+	border: gray 1px dashed;
+	width: auto;
+	height: auto;
+	padding: 5px;
+
+}
+.fs18 {
+	font-size: 24px;
+}
+
+.pt1 {
+	border-bottom: 1px solid gray;
+}
+
+.iconimg {
+	float: right;
+	display: inline-block;
+	padding: 15%;
+}
+
+.text-bold {
+	font-weight: bold;
+}
+
+.fll {
+	float: left;
+}
+
+.mgb {
+	margin-bottom: 25px;
+}
+
+.mgt {
+	margin-top: 25px;
+}
+
+.mg15 {
+	margin: 15px;
+}
+
+/* DATOS */
+
+.datos {
+	padding: 3% 0;
+}
+
+.brb {
+	border-bottom: solid 1px gray;
+}
+
+.fs40 {
+	font-size: 40px;
+}
+
+.text-gray2 {
+	color: #E0E0E0;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.boton1 {
+	width: auto;
+	height: auto;
+	padding: 5px;
+	text-align: center;
+	background-color: #EC407A;
+	font-size: 12px;
+	border-radius: 20px;
+	color: #E0E0E0;
+}
+
+.gray {
+	color: gray;
+}
+
+.rotate {
+	-ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg); 
+    transform: rotate(180deg);
+}
+
+form {
+	width: 50%;
+	box-sizing: border-box;
+}
+
+input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 7px;
+	font-size: 12px;
+	display: inline-block;
+	background-color: #212121;
+	border: 2px outset #37474F;
+}
+
